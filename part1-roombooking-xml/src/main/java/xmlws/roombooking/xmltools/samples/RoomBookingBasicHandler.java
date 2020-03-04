@@ -1,5 +1,7 @@
 package xmlws.roombooking.xmltools.samples;
 
+import org.xml.sax.helpers.DefaultHandler;
+
 public class RoomBookingBasicHandler extends DefaultHandler {
     /* public void startElement(String namespaceURI,
                              String localName,
